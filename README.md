@@ -1,2 +1,2 @@
-# sda-final-project-foodshop
-SDA Final Project: Online Food Shop
+# sda-final-project-clothingshop
+SDA Final Project: Online Clothing Shop
